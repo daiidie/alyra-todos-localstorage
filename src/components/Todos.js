@@ -11,7 +11,7 @@ const initialTodos = [
     id: "1b688c51-e990-4ce3-95a5-9018cf81d23d"
   },
   {
-    text: "Jouer avec le <title></title> 🤩",
+    text: "Jouer avec le <title> how ? </title> 🤩",
     isCompleted: false,
     id: "efc6331d-7ca2-49a6-b014-378b8280b33d"
   },
